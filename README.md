@@ -1,2 +1,2 @@
-# project-215-sample-website-hong
-Repository for sample website built using the Bootstrap framework
+# se2526
+Repository for SE2526 source files
